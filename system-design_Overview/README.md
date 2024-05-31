@@ -24,7 +24,7 @@ Dive deep into system design with our System Design Primer ultimate guide. From 
 
 System design is foundational in software engineering, encompassing the creation of software architecture, modules, and components. Tech giants such as Google, Microsoft, and Amazon incorporate system design interviews to assess candidates' ability to develop application architectures. Understanding system design concepts is crucial for building scalable and reliable software. This primer provides a comprehensive overview of system design, covering basic to advanced concepts, and offers tips and resources for preparing for system design interviews.
 
-![this system design image for information about system design components](./asset/system%20design1.PNG)
+![this system design image for information about system design components](./assets/system%20design1.PNG)
 
 
 ## What is the Need for the System Design?
@@ -110,7 +110,7 @@ Let’s explore some advanced concepts of the system design.
    - Often used for caching to improve performance.
    - VPNs utilize proxy servers to access blocked resources, providing enhanced privacy and circumventing restrictions.
 
-   ![client requests  to access internet resources the proxy act as an intermediary](./asset/proxy.PNG)
+   ![client requests  to access internet resources the proxy act as an intermediary](./assets/proxy.PNG)
 
 
 # Components of System Design
